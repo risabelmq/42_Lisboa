@@ -1,0 +1,6 @@
+[submodule "Level_00/42_Lisboa"]
+	path = Level_00/42_Lisboa
+	url = git@github.com:risabelmq/42_Lisboa.git
+[submodule "Level_00/42_Libft"]
+	path = Level_00/42_Libft
+	url = git@github.com:risabelmq/42_Libft.git
